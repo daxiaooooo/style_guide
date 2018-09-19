@@ -131,7 +131,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
-latex_documents = u[
+latex_documents = [
     (master_doc, 'Segway-Ninebot.tex', 'Segway-Ninebot 软件编程规范 Documentation',
      'Segway-Ninebot TW team', 'manual'),
 ]
