@@ -47,7 +47,7 @@
 
 .. code-block:: c
 
-#define SQUARE( a ) ((a) * (a)) 
+    #define SQUARE( a ) ((a) * (a)) 
  
     int a = 5; 
     int b; 
