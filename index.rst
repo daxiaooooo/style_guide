@@ -7,6 +7,7 @@
 =========
 
 .. toctree::
+   :maxdepth: 2
    
    Coding-Style-Guide/typesetting.rst
    Coding-Style-Guide/notes.rst
