@@ -9,6 +9,18 @@
 .. toctree::
    :maxdepth: 2
    
+   Coding-Style-Guide/typesetting.rst
+   Coding-Style-Guide/notes.rst
+   Coding-Style-Guide/naming.rst
+   Coding-Style-Guide/readability.rst
+   Coding-Style-Guide/variables.rst
+   Coding-Style-Guide/functions.rst
+   Coding-Style-Guide/testability.rst
+   Coding-Style-Guide/program_efficiency.rst
+   Coding-Style-Guide/quality.rst
+   Coding-Style-Guide/code_editing_compiling_reviewing.rst
+   Coding-Style-Guide/code_testing.rst
+   Coding-Style-Guide/macro.rst
 
 
 
